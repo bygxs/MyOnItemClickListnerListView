@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyOnItemClickListnerListView</string>
+    <string name="apple">APPLE</string>
+    <string name="orange">ORANGE</string>
+</resources>
